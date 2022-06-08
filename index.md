@@ -1,3 +1,4 @@
+theme:minima
 ---
 Welcome to my life
 ---
